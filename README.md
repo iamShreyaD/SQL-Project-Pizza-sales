@@ -15,7 +15,7 @@ Credit: WsCube Tech (YouTube) and Ayushi0214 (Github)
 4. Identify the most common pizza size ordered.
 
 5. List the top 5 most ordered pizza types along with their quantities.
----
+
 
 ## Intermediate:
 1. Join the necessary tables to find the total quantity of each pizza category ordered.
@@ -27,7 +27,7 @@ Credit: WsCube Tech (YouTube) and Ayushi0214 (Github)
 4. Group the orders by date and calculate the average number of pizzas ordered per day.
 
 5. Determine the top 3 most ordered pizza types based on revenue.
----
+
 
 ## Advanced:
 1. Calculate the percentage contribution of each pizza type to total revenue.
