@@ -1,0 +1,8 @@
+-- Calculate the total revenue generated from pizza sales.
+
+SELECT ROUND(SUM(od.quantity * p.price), 2) AS total_sales
+FROM order_details AS od
+JOIN pizzas AS p ON od.pizza_id = p.pizza_id;
+
+
+Ans. total_sales = 817860.05
